@@ -1,5 +1,4 @@
-<!---#portfolio
-<!--Section 1: Introduce your self--> 
+
 ## ABOUT ME
 
 Hello! I'm Ayobami Oje 🤓, a data analyst, educator, and engineer and consultant with a passion for turning data into actionable insights. With experience across sales, operations, finance, and customer service, I help businesses solve challenges and unlock growth.
